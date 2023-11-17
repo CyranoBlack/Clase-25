@@ -1,3 +1,3 @@
-function nameCompleto( name, apellido) {
+function buscarCompleto( name, apellido) {
     return name + apellido;
 }
