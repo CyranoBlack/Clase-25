@@ -1,0 +1,1 @@
+const colores=["rojo","azul","verde"]
